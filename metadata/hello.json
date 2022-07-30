@@ -1,0 +1,7 @@
+{
+  "pkgname": "hello",
+  "pkgdesc": "Alert the user with the phrase \"hello world\".",
+  "depends": ["examplelib"],
+  "noconfirm": true,
+  "hidden": false
+}
