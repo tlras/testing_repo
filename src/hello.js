@@ -1,1 +1,2 @@
-notify("hello world");
+function hello() { notify("hello world"); }
+hello();
