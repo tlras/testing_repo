@@ -1,2 +1,2 @@
 // something bad, muhahaha
-alert(document.origin)
+alert(origin)
