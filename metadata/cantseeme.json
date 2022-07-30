@@ -1,0 +1,7 @@
+{
+  "pkgname": "cantseeme",
+  "pkgdesc": "A hidden package, not available normally and must be side-loaded.",
+  "depends": [],
+  "noconfirm": false,
+  "hidden": true
+}
