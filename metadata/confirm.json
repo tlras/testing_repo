@@ -1,6 +1,5 @@
 {
-  "pkgname": "confirm",
-  "pkgdesc": "Depends on hello but does nothing, doesn't have noconfirm enabled.",
+  "description": "Depends on hello but does nothing, doesn't have noconfirm enabled.",
   "depends": ["hello"],
   "noconfirm": false,
   "hidden": false
