@@ -1,6 +1,5 @@
 {
-  "pkgname": "examplelib",
-  "pkgdesc": "A library with one function, notify().",
+  "description": "A library with one function, notify().",
   "depends": [],
   "noconfirm": false,
   "hidden": false
