@@ -3,5 +3,6 @@
   "depends": [],
   "versions": ["1.0.0", "2.1.2"],
   "noconfirm": false,
-  "hidden": false
+  "hidden": false,
+  "lastupdated": 1659372036
 }
