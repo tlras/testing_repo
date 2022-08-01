@@ -1,6 +1,7 @@
 {
   "description": "A hidden package, not available normally and must be side-loaded.",
   "depends": [],
+  "versions": ["1.0.0"],
   "noconfirm": false,
   "hidden": true
 }

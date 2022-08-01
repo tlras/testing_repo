@@ -1,6 +1,7 @@
 {
   "description": "Alert the user with the phrase \"hello world\".",
-  "depends": ["examplelib"],
+  "depends": ["examplelib:1.0"],
+  "versions": ["1.0.0"],
   "noconfirm": true,
   "hidden": false
 }

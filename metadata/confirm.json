@@ -1,6 +1,7 @@
 {
   "description": "Depends on hello but does nothing, doesn't have noconfirm enabled.",
-  "depends": ["hello"],
+  "depends": ["hello:1"],
+  "versions": ["1.0.0"],
   "noconfirm": false,
   "hidden": false
 }
